@@ -12,7 +12,7 @@ Cada Musicista (jogador) propõe uma de suas Peças para serem executadas. A ord
 de execução das Peças é decidida coletivamente. Em seguida, cada Musicista
 compra sete cartas de Performance de sua Bagagem (deck), e a Peça começa. A cada
 Tempo (turno), os jogadores escolhem sua Performance e a executam todos ao mesmo
-tempo.
+tempo. Em seguida todos compram uma Perfomance do topo da Bagagem.
 
 A cada Tempo um Tema da Peça pode ser executado por um ou mais Musicistas e
 todos os Musicistas executando o tema são premiados com uma Aclamação (ponto).
@@ -73,6 +73,58 @@ ambos podem escolher ser dissonantes e não contar para fins harmônicos. No
 cálculo da Melodia, um Tom Maior só ocorre quando duas Perfomances consecutivas
 são do mesmo Tom. O musicista declara qual delas é Maior na hora de sua
 execução, pesando igualmente para fins de Harmonia.
+
+## Tipos de Performance
+
+### Performance
+
+As Performances comuns tem seu efeito (descrito na carta) resolvido
+imediatamente. Algumas Performances (inclusive dos outros tipos) requerem uma
+Aclamação mínima para poder jogada. Essa Aclamação deve ter sido conquistada
+durante a execução da Peça atual — mas não é gasta quando a Performance é
+tocada.
+
+### Tema
+
+Temas são Performances que avançam a Peça, pontuando os jogadores envolvidos com
+a progressão em uma Aclamação. Todo Tema representa algo, como uma idéia,
+sentimento ou objeto, e caso corresponda ao Tema da Peça pontua uma Aclamação
+extra. Todos os Temas básicos (sem efeito colateral) podem trocar seus objetos
+de representação antes do começo do jogo, mas o tempo dedicado a essa mudança
+precisa ser igual e simultâneo para todos, definido a partir de consenso do
+grupo (se possível). O tempo pode ser definido como zero (sem estudo prévio).
+
+### Artefato
+
+Artefatos, Convidados e Personalidades são Performances *permanentes*. Elas
+continuam sobre a mesa depois de jogadas e seu efeito pode ser constante. As
+permanentes podem precisar ser viradas para produzir efeito, desvirando no final
+da próxima rodada. Permanentes não podem ser viradas no Tempo em que são
+apresentadas.
+
+Cada Musicista pode ter apenas um Artefato em jogo ao mesmo Tempo.
+
+### Convidado
+
+Um Convidado é uma Performance permanente. Todo convidado tem uma sequência
+consoante que será executada um Tom por Tempo que o Convidado permanecer em
+jogo, exceto no turno em que é apresentado. Caso o Convidado consiga executar
+todos os seus Tons, ele sai de jogo e pontua uma Aclamação a quem o convidou.
+Caso a Peça termine antes do convidado terminar sua sequência, ele sai de jogo
+sem pontuar. Aconselha-se usar um dado de seis lados sobre a carta do Convidado
+para marcar o andamento de sua sequência.
+
+Os Tons performados pelos Convidados contam para fins de Harmonia, mas não tem
+nenhum efeito sobre o andamento da Peça. Não se pode jogar dois Convidados
+iguais na mesma Peça.
+
+### Personalidade
+
+Personalidades são Performances permanentes que duram até seu Musicista se
+destacar (ter maior Aclamação) ao final da execução de uma Peça. Ao final da
+execução da Peça, jogadores sem Personalidade perdem uma Aclamação.
+
+Não se pode ter duas Personalidades iguais na mesma Bagagem (deck).
 
 ## Bagagem
 
